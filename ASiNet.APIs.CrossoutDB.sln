@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34205.153
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASiNet.APIs.CrossoutDB", "ASiNet.APIs.CrossoutDB\ASiNet.APIs.CrossoutDB.csproj", "{CE525DE1-186E-4228-A45D-93DB78D21D2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{9BF7AA52-1791-48D8-9DB8-F847C158B5EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE525DE1-186E-4228-A45D-93DB78D21D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE525DE1-186E-4228-A45D-93DB78D21D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE525DE1-186E-4228-A45D-93DB78D21D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE525DE1-186E-4228-A45D-93DB78D21D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF7AA52-1791-48D8-9DB8-F847C158B5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF7AA52-1791-48D8-9DB8-F847C158B5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF7AA52-1791-48D8-9DB8-F847C158B5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF7AA52-1791-48D8-9DB8-F847C158B5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C390E9C-93D4-4134-B8CF-6F8C6119788E}
+	EndGlobalSection
+EndGlobal
